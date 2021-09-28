@@ -1,0 +1,2 @@
+
+        cout << carro.rodas << endl;
